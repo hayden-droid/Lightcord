@@ -1,6 +1,6 @@
 ---
-appId: com.squirrel.Lightcord.Lightcord
-productName: Lightcord
+appId: com.descendo.MonkeiCord.MonkeiCord
+productName: MonkeiCord
 remoteBuild: false
 directories:
   app: distApp
