@@ -13,7 +13,7 @@
     "@discordjs/collection": "0.1.5"
   },
   "devDependencies": {
-    "ts-loader": "^7.0.5",
+    "ts-loader": "^9.4.2",
     "typescript": "^3.9.5"
   }
 }
